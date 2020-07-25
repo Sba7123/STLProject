@@ -1,10 +1,9 @@
 @echo off
 git add .
 git status
-echo ┌───────────┐
-│ 
-git commit -m "******"
-│
-└───────────┘
-stdin
+echo          ======================================
+echo          ====[  git commit -m "******"  ]=====
+echo          ====[         git push         ]=====
+echo          ======================================
+echo\
 cmd
